@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "course": "React JS",
+    "email": "rahul.sharma@gmail.com",
+    "phone": "9876543210",
+    "city": "Indore"
+  },
+  {
+    "id": 2,
+    "name": "Ayesha Khan",
+    "course": "Java Full Stack",
+    "email": "ayesha.khan@gmail.com",
+    "phone": "9876543211",
+    "city": "Bhopal"
+  },
+  {
+    "id": 3,
+    "name": "John Peter",
+    "course": "Python",
+    "email": "john.peter@gmail.com",
+    "phone": "9876543212",
+    "city": "Pune"
+  },
+  {
+    "id": 4,
+    "name": "Priya Verma",
+    "course": "MERN Stack",
+    "email": "priya.verma@gmail.com",
+    "phone": "9876543213",
+    "city": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Mohammed Ali",
+    "course": "Angular",
+    "email": "mohammed.ali@gmail.com",
+    "phone": "9876543214",
+    "city": "Mumbai"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patil",
+    "course": "React JS",
+    "email": "sneha.patil@gmail.com",
+    "phone": "9876543215",
+    "city": "Nagpur"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Singh",
+    "course": "Java Full Stack",
+    "email": "rohit.singh@gmail.com",
+    "phone": "9876543216",
+    "city": "Jaipur"
+  },
+  {
+    "id": 8,
+    "name": "Neha Joshi",
+    "course": "Python",
+    "email": "neha.joshi@gmail.com",
+    "phone": "9876543217",
+    "city": "Surat"
+  },
+  {
+    "id": 9,
+    "name": "Akash Gupta",
+    "course": "MERN Stack",
+    "email": "akash.gupta@gmail.com",
+    "phone": "9876543218",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 10,
+    "name": "Sara Sheikh",
+    "course": "React JS",
+    "email": "sara.sheikh@gmail.com",
+    "phone": "9876543219",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 11,
+    "name": "Vikas Yadav",
+    "course": "Angular",
+    "email": "vikas.yadav@gmail.com",
+    "phone": "9876543220",
+    "city": "Lucknow"
+  },
+  {
+    "id": 12,
+    "name": "Anjali Mehta",
+    "course": "Java Full Stack",
+    "email": "anjali.mehta@gmail.com",
+    "phone": "9876543221",
+    "city": "Chennai"
+  },
+  {
+    "id": 13,
+    "name": "Karan Malhotra",
+    "course": "Python",
+    "email": "karan.malhotra@gmail.com",
+    "phone": "9876543222",
+    "city": "Noida"
+  },
+  {
+    "id": 14,
+    "name": "Fatima Ansari",
+    "course": "React JS",
+    "email": "fatima.ansari@gmail.com",
+    "phone": "9876543223",
+    "city": "Bengaluru"
+  },
+  {
+    "id": 15,
+    "name": "Aditya Kulkarni",
+    "course": "MERN Stack",
+    "email": "aditya.k@gmail.com",
+    "phone": "9876543224",
+    "city": "Nashik"
+  }
+]
